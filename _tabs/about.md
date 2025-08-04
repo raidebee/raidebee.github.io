@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+저는 암호화폐 및 금융 시스템 전문 백엔드 개발자입니다. 복잡한 비즈니스 요구사항을 명확하고 유지보수 가능한 시스템으로 설계하고, 레거시 시스템을 성공적으로 개선하여 비즈니스 가치를 더하는 것에 보람을 느낍니다. 
